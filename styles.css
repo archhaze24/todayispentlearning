@@ -1,5 +1,25 @@
 body {
-    background-color: #121212;
-    color: #e6e6e6;
+    background-color: #212121;
+    color: #FFFFFF;
     font-family: Roboto, serif;
+    margin: 0;
 }
+
+p {
+    margin: 0;
+}
+
+section {
+    margin: 5px;
+}
+
+h4 {
+    margin-bottom: 3px;
+}
+
+header {
+    overflow: hidden;
+    background-color: #000000;
+    font-size: 2vw;
+}
+
