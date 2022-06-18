@@ -1,0 +1,21 @@
+p {
+    padding: 10px;
+}
+
+section {
+    font-size: 2vw;
+}
+
+.title {
+    overflow: hidden;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.socials p {
+    padding: 0 10px 0;
+}
+
+.socials li a {
+    color: white;
+}

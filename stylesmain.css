@@ -1,0 +1,19 @@
+p {
+    margin: 0;
+    font-size: 2vw;
+}
+
+section {
+    margin: 5px;
+    font-size: 2vw;
+}
+
+h4 {
+    margin-bottom: 3px;
+}
+
+header {
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-size: 2vw;
+}
