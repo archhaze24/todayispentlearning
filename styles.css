@@ -1,7 +1,7 @@
 body {
     background-color: #212121;
     color: #ffffff;
-    font-family: Roboto, serif;
+    font-family: Roboto, Arial, Verdana sans-serif;
     margin: 0;
 }
 
@@ -20,4 +20,10 @@ body {
 
 .navbar a:hover {
     background-color: #111111;
+}
+
+.title {
+    overflow: hidden;
+    text-align: center;
+    background-color: rgba(4, 170, 109, 0.8);
 }
