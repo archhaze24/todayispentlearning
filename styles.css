@@ -27,3 +27,19 @@ body {
     text-align: center;
     background-color: rgba(4, 170, 109, 0.8);
 }
+
+.title h1 {
+    font-size: 4vw;
+}
+
+a:link {
+    color: rgb(4, 170, 109);
+}
+
+a:visited {
+    color: rgb(4, 126, 170);
+}
+
+a:hover {
+    color: rgba(200, 170, 109);
+}
