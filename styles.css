@@ -48,3 +48,23 @@ a:visited {
 a:hover {
     color: rgba(200, 170, 109);
 }
+
+.lightTheme {
+    background-color: white;
+    color: black;
+}
+
+.lightThemeIcon {
+    display: block;
+    float: right;
+    padding: 15px;
+    font-size: 1.25em;
+}
+
+.lightThemeTitle {
+    color: #ffffff;
+}
+
+.lightThemeIconDark {
+    color: #858585;
+}
