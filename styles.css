@@ -16,6 +16,7 @@ body {
     padding: 15px;
     text-decoration: none;
     color: white;
+    text-align: center;
 }
 
 .navbar a:hover {
@@ -30,6 +31,10 @@ body {
 
 .title h1 {
     font-size: 4vw;
+}
+
+.title h2 {
+    font-size: 2.75vw;
 }
 
 a:link {
