@@ -1,13 +1,10 @@
-p {
-    margin: 0;
-    font-size: 2vw;
+section > p {
+    margin: 3px 5px;
+    font-size: 1.25em;
 }
 
-section {
-    margin: 5px 5px 5px 10px;
-    font-size: 2vw;
-}
-
-h4 {
+section > h4 {
     margin-bottom: 3px;
+    margin-left: 5px;
+    font-size: 1.5em;
 }
